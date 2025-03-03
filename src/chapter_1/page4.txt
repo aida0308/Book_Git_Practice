@@ -1,8 +1,0 @@
-
-Software types:
-
-1) System software: All kind of Operating Systems (OS)
-2) Application Software: 1. web-based app
-                         2. mobile app
-                         3. desktop app
-                         4. hybrid/cross platform app
